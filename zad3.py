@@ -10,3 +10,4 @@ print(func(x, y))
 print(mult(x, y))
 print(div(x, y))
 
+vso poluchilos zagruzil
