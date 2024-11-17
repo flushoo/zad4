@@ -10,4 +10,7 @@ print(func(x, y))
 print(mult(x, y))
 print(div(x, y))
 
-vso poluchilos zagruzil
+
+hello_world = ("hello" + "world")
+
+print("hello world")
