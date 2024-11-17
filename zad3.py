@@ -14,3 +14,8 @@ print(div(x, y))
 hello_world = ("hello" + "world")
 
 print("hello world")
+a = 5
+b = 6
+print ("a")
+print ("b")
+
