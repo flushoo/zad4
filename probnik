@@ -1,0 +1,3 @@
+test_text= input("Введите число":)
+int=test_text
+print(test_text,int)
